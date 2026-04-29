@@ -2,7 +2,7 @@ import { ImLocation2 } from "react-icons/im";
 import { NavLink } from "react-router-dom";
 import { IoCall } from "react-icons/io5";
 import { HiMail } from "react-icons/hi";
-import footerContact from "../../api/footerApi.json";
+import footerContact from "../../api/footerAPI.json";
 
 export const Footers = () => {
   const footerIcon = {
