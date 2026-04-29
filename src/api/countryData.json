@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": "125.7 million",
+    "interestingFact": "Japan has more than 5 million vending machines, selling everything from snacks to umbrellas."
+  },
+  {
+    "id": 2,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": "26 million",
+    "interestingFact": "Australia is home to more kangaroos than people."
+  },
+  {
+    "id": 3,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": "1.4 billion",
+    "interestingFact": "India has the world’s largest postal network with over 150,000 post offices."
+  },
+  {
+    "id": 4,
+    "countryName": "Brazil",
+    "capital": "Brasília",
+    "population": "214 million",
+    "interestingFact": "Brazil is named after a tree called ‘pau-brasil’ that once grew abundantly along its coast."
+  },
+  {
+    "id": 5,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": "39 million",
+    "interestingFact": "Canada has the longest coastline of any country in the world—over 202,000 km long."
+  },
+  {
+    "id": 6,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": "68 million",
+    "interestingFact": "France was the first country in the world to ban supermarkets from throwing away unsold food."
+  },
+  {
+    "id": 7,
+    "countryName": "Egypt",
+    "capital": "Cairo",
+    "population": "113 million",
+    "interestingFact": "The Great Pyramid of Giza was the tallest man-made structure in the world for nearly 3,800 years."
+  },
+  {
+    "id": 8,
+    "countryName": "Norway",
+    "capital": "Oslo",
+    "population": "5.5 million",
+    "interestingFact": "Norway introduced salmon sushi to Japan in the 1980s."
+  },
+  {
+    "id": 9,
+    "countryName": "Kenya",
+    "capital": "Nairobi",
+    "population": "55 million",
+    "interestingFact": "Kenya is the birthplace of world-class long-distance runners who dominate global competitions."
+  },
+  {
+    "id": 10,
+    "countryName": "Italy",
+    "capital": "Rome",
+    "population": "59 million",
+    "interestingFact": "Italy has the most UNESCO World Heritage Sites in the world."
+  }
+]
