@@ -4,8 +4,7 @@ A modern, responsive React web application that allows users to explore detailed
 
 This project was built using **React 19**, **Vite**, and **React Router v7**, fetching real-time data from the powerful [REST Countries API](https://restcountries.com/).
 
-### 🚀 [Live Demo - Click Here](YOUR_HOSTED_LINK_HERE) 
-*(Note: Please replace `YOUR_HOSTED_LINK_HERE` with your actual live deployment URL!)*
+### 🚀 [Live Demo - Click Here](https://globalatlas.vercel.app/)
 
 ---
 
